@@ -2,7 +2,7 @@
 
 A gritty, industrial green Omarchy theme inspired by the legendary **Quake II** multiplayer deathmatch map *q2dm1: The Edge*. Built using the Aether design suite and color-matched for a nostalgic, high-visibility terminal environment.
 
-![Theme Preview](screenshot.png)
+![Theme Preview](q2dm1-github.png)
 
 ## Features
 * **Colors:** A specialized `colors.toml` palette inspired by the toxic slimes, rusty steel structures, and computer terminals of Quake II.
