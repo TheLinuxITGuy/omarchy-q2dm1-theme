@@ -24,7 +24,7 @@ omarchy-q2dm1-theme/
 You can quickly install and download this theme dynamically by targeting this repository with the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install [your-username]/omarchy-q2dm1-theme
+omarchy theme install https://github.com/TheLinuxITGuy/omarchy-q2dm1-theme
 ```
 *(Make sure to replace `[your-username]` with your actual GitHub username).*
 
