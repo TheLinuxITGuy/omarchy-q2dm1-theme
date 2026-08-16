@@ -30,7 +30,7 @@ omarchy-theme-install [your-username]/omarchy-q2dm1-theme
 
 ### Via the Graphical Interface
 1. Copy the full URL of this GitHub repository.
-2. Open the Omarchy system menu using `Super + Alt + Space`.
+2. Open the Omarchy system menu using `Super + Space`.
 3. Navigate to **Install > Style > Theme**.
 4. Paste the repository URL to pull and apply the configuration.
 
